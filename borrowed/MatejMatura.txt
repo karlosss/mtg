@@ -1,61 +1,29 @@
-Anger of the Gods
-Anger of the Gods
-Blood Moon
-Blood Moon
-Ceremonious Rejection
-Ceremonious Rejection
-Crumble to Dust
-Cryptic Command
-Cryptic Command
-Desolate Lighthouse
-Disdainful Stroke
-Dispel
-Dispel
-Dragon's Claw
-Dragon's Claw
-Electrolyze
-Emrakul, the Aeons Torn
-Emrakul, the Aeons Torn
-Emrakul, the Aeons Torn
-Engineered Explosives
-Lightning Bolt
-Lightning Bolt
-Lightning Bolt
-Lightning Bolt
-Magma Spray
-Misty Rainforest
-Misty Rainforest
-Opt
-Opt
-Opt
-Opt
-Polluted Delta
-Remand
-Remand
-Remand
-Remand
-Roast
-Scalding Tarn
-Scalding Tarn
-Scalding Tarn
-Scalding Tarn
-Serum Visions
-Serum Visions
-Serum Visions
-Serum Visions
-Shatterstorm
-Snapcaster Mage
-Snapcaster Mage
-Snapcaster Mage
-Snapcaster Mage
-Spell Pierce
-Spell Snare
-Steam Vents
-Sulfur Falls
-Sulfur Falls
-Sulfur Falls
-Through the Breach
-Through the Breach
-Through the Breach
-Through the Breach
-Vendilion Clique
+2 Anger of the Gods
+2 Blood Moon
+2 Ceremonious Rejection
+1 Crumble to Dust
+2 Cryptic Command
+1 Desolate Lighthouse
+1 Disdainful Stroke
+2 Dispel
+2 Dragon's Claw
+1 Electrolyze
+3 Emrakul, the Aeons Torn
+1 Engineered Explosives
+4 Lightning Bolt
+1 Magma Spray
+2 Misty Rainforest
+4 Opt
+1 Polluted Delta
+4 Remand
+1 Roast
+4 Scalding Tarn
+4 Serum Visions
+1 Shatterstorm
+4 Snapcaster Mage
+1 Spell Pierce
+1 Spell Snare
+1 Steam Vents
+3 Sulfur Falls
+4 Through the Breach
+1 Vendilion Clique

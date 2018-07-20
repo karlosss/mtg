@@ -1,2120 +1,703 @@
-Abrupt Decay
-Abrupt Decay
-Abrupt Decay
-Abrupt Decay
-Academy Ruins
-Academy Ruins
-Accorder's Shield
-Accorder's Shield
-Accorder's Shield
-Accorder's Shield
-Acidic Slime
-Acidic Slime
-Adarkar Wastes
-Adarkar Wastes
-Adarkar Wastes
-Adarkar Wastes
-Ad Nauseam
-Ad Nauseam
-Ad Nauseam
-Ad Nauseam
-Aether Spellbomb
-Aether Spellbomb
-Aether Spellbomb
-Aether Vial
-Aether Vial
-Aether Vial
-Aether Vial
-Ajani's Pridemate
-Ajani Vengeant
-Ajani Vengeant
-Ajani Vengeant
-All Is Dust
-All Is Dust
-All Is Dust
-Amulet of Vigor
-Amulet of Vigor
-Amulet of Vigor
-Amulet of Vigor
-Anafenza, Kin-Tree Spirit
-Anafenza, Kin-Tree Spirit
-Anafenza, Kin-Tree Spirit
-Anafenza, the Foremost
-Ancestral Vision
-Ancestral Vision
-Ancestral Vision
-Ancestral Vision
-Ancient Grudge
-Ancient Grudge
-Ancient Grudge
-Ancient Grudge
-Ancient Stirrings
-Ancient Stirrings
-Ancient Stirrings
-Ancient Stirrings
-Angel's Grace
-Angel's Grace
-Angel's Grace
-Angel's Grace
-Anger of the Gods
-Anger of the Gods
-Anger of the Gods
-Anger of the Gods
-Anticipate
-Anticipate
-Anticipate
-Apostle's Blessing
-Apostle's Blessing
-Apostle's Blessing
-Apostle's Blessing
-Arbor Elf
-Arbor Elf
-Arbor Elf
-Arbor Elf
-Arcbound Ravager
-Arcbound Ravager
-Arcbound Ravager
-Arcbound Ravager
-Archangel of Thune
-Archfiend of Ifnir
-Archfiend of Ifnir
-Archfiend of Ifnir
-Archfiend of Ifnir
-Archive Trap
-Archive Trap
-Arid Mesa
-Arid Mesa
-Arid Mesa
-Arid Mesa
-Atarka's Command
-Atarka's Command
-Atarka's Command
-Atarka's Command
-Authority of the Consuls
-Authority of the Consuls
-Authority of the Consuls
-Authority of the Consuls
-Authority of the Consuls
-Authority of the Consuls
-Authority of the Consuls
-Authority of the Consuls
-Avalanche Riders
-Avalanche Riders
-Aven Mindcensor
-Aven Mindcensor
-Aven Mindcensor
-Azorius Signet
-Azorius Signet
-Azorius Signet
-Azorius Signet
-Azusa, Lost but Seeking
-Azusa, Lost but Seeking
-Azusa, Lost but Seeking
-Banefire
-Baneslayer Angel
-Basilisk Collar
-Basilisk Collar
-Bastion Inventor
-Bastion Inventor
-Bastion Inventor
-Bastion Inventor
-Batterskull
-Batterskull
-Beast Within
-Beast Within
-Beast Within
-Beast Within
-Become Immense
-Become Immense
-Become Immense
-Become Immense
-Bedlam Reveler
-Bedlam Reveler
-Bedlam Reveler
-Bedlam Reveler
-Big Game Hunter
-Birds of Paradise
-Birds of Paradise
-Birds of Paradise
-Birds of Paradise
-Blackcleave Cliffs
-Blackcleave Cliffs
-Blackcleave Cliffs
-Blackcleave Cliffs
-Blade Splicer
-Blade Splicer
-Blade Splicer
-Blade Splicer
-Blessed Alliance
-Blessed Alliance
-Blessed Alliance
-Blessed Alliance
-Blinkmoth Nexus
-Blinkmoth Nexus
-Blinkmoth Nexus
-Blinkmoth Nexus
-Blood Crypt
-Blood Crypt
-Bloodghast
-Bloodghast
-Bloodghast
-Bloodghast
-Blood Moon
-Blood Moon
-Blood Moon
-Blood Moon
-Bloodstained Mire
-Bloodstained Mire
-Bloodstained Mire
-Bloodstained Mire
-Blooming Marsh
-Blooming Marsh
-Blooming Marsh
-Blooming Marsh
-Blue Sun's Zenith
-Boil
-Boil
-Boil
-Bojuka Bog
-Bone Saw
-Bone Saw
-Bone Saw
-Bone Saw
-Bonfire of the Damned
-Bonfire of the Damned
-Bonfire of the Damned
-Bonfire of the Damned
-Boom/Bust
-Boom/Bust
-Boom/Bust
-Boom/Bust
-Boros Charm
-Boros Charm
-Boros Charm
-Boros Charm
-Boros Garrison
-Boseiju, Who Shelters All
-Bow of Nylea
-Breaking/Entering
-Breaking/Entering
-Breaking/Entering
-Breaking/Entering
-Breeding Pool
-Breeding Pool
-Breeding Pool
-Brimaz, King of Oreskos
-Brindle Boar
-Brindle Boar
-Brindle Boar
-Brushland
-Brushland
-Brushland
-Brushland
-Bump in the Night
-Bump in the Night
-Bump in the Night
-Bump in the Night
-Burrenton Forge-Tender
-Burrenton Forge-Tender
-Burrenton Forge-Tender
-Burst Lightning
-Burst Lightning
-Burst Lightning
-Burst Lightning
-Calciform Pools
-Calciform Pools
-Cathar's Shield
-Cathar's Shield
-Cathar's Shield
-Cathar's Shield
-Cavern of Souls
-Cavern of Souls
-Cavern of Souls
-Cavern of Souls
-Caves of Koilos
-Caves of Koilos
-Caves of Koilos
-Caves of Koilos
-Celestial Colonnade
-Celestial Colonnade
-Celestial Colonnade
-Celestial Colonnade
-Celestial Flare
-Celestial Flare
-Celestial Flare
-Celestial Purge
-Celestial Purge
-Celestial Purge
-Celestial Purge
-Censor
-Censor
-Censor
-Censor
-Ceremonious Rejection
-Ceremonious Rejection
-Ceremonious Rejection
-Ceremonious Rejection
-Cerulean Wisps
-Chalice of the Void
-Chalice of the Void
-Chalice of the Void
-Chalice of the Void
-Chandra, Torch of Defiance
-Chandra, Torch of Defiance
-Chief Engineer
-Chief Engineer
-Chief Engineer
-Chief Engineer
-Choke
-Choke
-Choke
-Choke
-Choked Estuary
-Choked Estuary
-Choked Estuary
-Choked Estuary
-Chord of Calling
-Chord of Calling
-Chord of Calling
-Chord of Calling
-Chromatic Sphere
-Chromatic Sphere
-Chromatic Sphere
-Chromatic Sphere
-Chromatic Star
-Chromatic Star
-Chromatic Star
-Chromatic Star
-Cinder Glade
-Cinder Glade
-Cinder Glade
-Cinder Glade
-City of Brass
-Clifftop Retreat
-Codex Shredder
-Codex Shredder
-Codex Shredder
-Codex Shredder
-Collected Company
-Collected Company
-Collected Company
-Collected Company
-Collective Brutality
-Collective Brutality
-Collective Brutality
-Collective Brutality
-Combust
-Combust
-Combust
-Combust
-Commandeer
-Commandeer
-Concealed Courtyard
-Condemn
-Condemn
-Condescend
-Condescend
-Condescend
-Condescend
-Conflagrate
-Conflagrate
-Conflagrate
-Conjurer's Bauble
-Conjurer's Bauble
-Conjurer's Bauble
-Conjurer's Bauble
-Copperline Gorge
-Copperline Gorge
-Counterflux
-Counterflux
-Courser of Kruphix
-Courser of Kruphix
-Court Hussar
-Court Hussar
-Court Hussar
-Crackling Doom
-Crack the Earth
-Crack the Earth
-Crack the Earth
-Crack the Earth
-Cranial Plating
-Cranial Plating
-Cranial Plating
-Cranial Plating
-Craterhoof Behemoth
-Crovax, Ascendant Hero
-Crucible of Worlds
-Crumble to Dust
-Crumble to Dust
-Crumble to Dust
-Crumble to Dust
-Cryptic Command
-Cryptic Command
-Cryptic Command
-Cryptic Command
-Crypt Incursion
-Crypt Incursion
-Culling Scales
-Cyclonic Rift
-Cyclonic Rift
-Dakmor Salvage
-Dakmor Salvage
-Damnation
-Damnation
-Damnation
-Damping Matrix
-Damping Matrix
-Darkblast
-Darkblast
-Darkblast
-Dark Confidant
-Dark Confidant
-Dark Confidant
-Dark Confidant
-Darkness
-Darkslick Shores
-Darkslick Shores
-Darkslick Shores
-Darksteel Citadel
-Darksteel Citadel
-Darksteel Citadel
-Darksteel Citadel
-Dawn Charm
-Dawn Charm
-Day of Judgment
-Deadshot Minotaur
-Deadshot Minotaur
-Deadshot Minotaur
-Deadshot Minotaur
-Deathmark
-Death's Shadow
-Death's Shadow
-Death's Shadow
-Death's Shadow
-Deceiver Exarch
-Deceiver Exarch
-Deceiver Exarch
-Deceiver Exarch
-Defense Grid
-Defense Grid
-Deflecting Palm
-Deflecting Palm
-Deflecting Palm
-Delver of Secrets
-Delver of Secrets
-Delver of Secrets
-Delver of Secrets
-Demonic Dread
-Demonic Dread
-Demonic Dread
-Demonic Dread
-Desert Cerodon
-Desert Cerodon
-Desert Cerodon
-Desert Cerodon
-Desolate Lighthouse
-Desperate Ravings
-Desperate Ravings
-Desperate Ravings
-Desperate Ravings
-Desperate Ravings
-Desperate Ritual
-Desperate Ritual
-Desperate Ritual
-Desperate Ritual
-Destructive Revelry
-Destructive Revelry
-Destructive Revelry
-Destructive Revelry
-Destructive Revelry
-Detention Sphere
-Detention Sphere
-Detention Sphere
-Detention Sphere
-Devastating Summons
-Devastating Summons
-Devoted Druid
-Devoted Druid
-Devoted Druid
-Devoted Druid
-Dictate of Kruphix
-Dictate of Kruphix
-Dictate of Kruphix
-Dictate of Kruphix
-Dig Through Time
-Dig Through Time
-Dig Through Time
-Dig Through Time
-Disdainful Stroke
-Disdainful Stroke
-Disenchant
-Disenchant
-Disenchant
-Disfigure
-Dismember
-Dismember
-Dismember
-Dismember
-Dismember
-Dispatch
-Dispatch
-Dispatch
-Dispatch
-Dispatch
-Dispel
-Dispel
-Dispel
-Dispel
-Dispel
-Dispel
-Doom Blade
-Dragon's Claw
-Dragon's Claw
-Dreadbore
-Dreadship Reef
-Driven/Despair
-Drogskol Captain
-Drogskol Captain
-Drogskol Captain
-Drogskol Captain
-Drowned Catacomb
-Drowner of Hope
-Drowner of Hope
-Drowner of Hope
-Drowner of Hope
-Dryad Arbor
-Dryad Arbor
-Duress
-Duress
-Duress
-Duress
-Dusk/Dawn
-Duskwatch Recruiter
-Duskwatch Recruiter
-Duskwatch Recruiter
-Duskwatch Recruiter
-Dwynen's Elite
-Dwynen's Elite
-Dwynen's Elite
-Dwynen's Elite
-Echoing Truth
-Echoing Truth
-Echoing Truth
-Eidolon of Rhetoric
-Eidolon of Rhetoric
-Eidolon of the Great Revel
-Eidolon of the Great Revel
-Eidolon of the Great Revel
-Eidolon of the Great Revel
-Eiganjo Castle
-Eldrazi Displacer
-Eldrazi Displacer
-Eldrazi Displacer
-Eldrazi Displacer
-Eldrazi Mimic
-Eldrazi Mimic
-Eldrazi Mimic
-Eldrazi Mimic
-Eldrazi Obligator
-Eldrazi Obligator
-Eldrazi Obligator
-Eldrazi Obligator
-Eldrazi Skyspawner
-Eldrazi Skyspawner
-Eldrazi Skyspawner
-Eldrazi Skyspawner
-Eldrazi Temple
-Eldrazi Temple
-Eldrazi Temple
-Eldrazi Temple
-Electrickery
-Electrickery
-Electrolyze
-Electrolyze
-Electrolyze
-Elesh Norn, Grand Cenobite
-Elixir of Immortality
-Elspeth, Knight-Errant
-Elspeth, Knight-Errant
-Elspeth, Knight-Errant
-Elspeth, Sun's Champion
-Elvish Archdruid
-Elvish Archdruid
-Elvish Archdruid
-Elvish Archdruid
-Elvish Champion
-Elvish Mystic
-Elvish Mystic
-Elvish Mystic
-Elvish Mystic
-Elvish Visionary
-Elvish Visionary
-Elvish Visionary
-Elvish Visionary
-Emeria, the Sky Ruin
-Emeria, the Sky Ruin
-Emeria, the Sky Ruin
-Emeria, the Sky Ruin
-Empty the Warrens
-Empty the Warrens
-Emrakul, the Aeons Torn
-Emrakul, the Aeons Torn
-Emrakul, the Aeons Torn
-Emrakul, the Aeons Torn
-Emrakul, the Promised End
-Endbringer
-Endbringer
-Endbringer
-Endbringer
-Endless One
-Endless One
-Endless One
-Endless One
-Engineered Explosives
-Engineered Explosives
-Engineered Explosives
-Engulf the Shore
-Engulf the Shore
-Engulf the Shore
-Engulf the Shore
-Ensnaring Bridge
-Ensnaring Bridge
-Ensnaring Bridge
-Ensnaring Bridge
-Entrancing Melody
-Esper Charm
-Esper Charm
-Esper Charm
-Esper Charm
-Etched Champion
-Etched Champion
-Etched Champion
-Eternal Scourge
-Eternal Scourge
-Eternal Scourge
-Eternal Scourge
-Eternal Witness
-Eternal Witness
-Eternal Witness
-Eternal Witness
-Ethereal Haze
-Ethereal Haze
-Ethereal Haze
-Ethereal Haze
-Everflowing Chalice
-Exhaustion
-Exhaustion
-Exhaustion
-Exhaustion
-Expedition Map
-Expedition Map
-Expedition Map
-Expedition Map
-Explore
-Explore
-Explore
-Explore
-Eye of Ugin
-Eye of Ugin
-Eye of Ugin
-Eye of Ugin
-Ezuri, Renegade Leader
-Ezuri, Renegade Leader
-Ezuri, Renegade Leader
-Ezuri, Renegade Leader
-Faerie Conclave
-Faerie Macabre
-Faerie Macabre
-Faerie Macabre
-Faerie Macabre
-Faithless Looting
-Faith's Reward
-Faith's Reward
-Faith's Reward
-Faith's Reward
-Farseek
-Farseek
-Fatal Push
-Fatal Push
-Fatal Push
-Fatal Push
-Feed the Clan
-Feed the Clan
-Feed the Clan
-Feed the Clan
-Fetid Pools
-Firespout
-Firespout
-Firespout
-Firespout
-Flagstones of Trokair
-Flagstones of Trokair
-Flame slash
-Flame Slash
-Flames of the Blood Hand
-Flames of the Blood Hand
-Flashfreeze
-Flickerwisp
-Flickerwisp
-Flickerwisp
-Flickerwisp
-Flooded Strand
-Flooded Strand
-Flooded Strand
-Flooded Strand
-Fog
-Fog
-Fog
-Fog
-Foreboding Ruins
-Foreboding Ruins
-Foreboding Ruins
-Foreboding Ruins
-Forked Bolt
-Forked Bolt
-Forked Bolt
-Fortified Village
-Fortified Village
-Fortified Village
-Fortified Village
-Fracturing Gust
-Fragmentize
-Fulminator Mage
-Fulminator Mage
-Fulminator Mage
-Fulminator Mage
-Funeral Charm
-Funeral Charm
-Funeral Charm
-Funeral Charm
-Gaddock Teeg
-Galvanic Blast
-Galvanic Blast
-Galvanic Blast
-Galvanic Blast
-Game Trail
-Game Trail
-Game Trail
-Game Trail
-Gavony Township
-Gavony Township
-Gavony Township
-Geier Reach Sanitarium
-Geist of Saint Traft
-Geist of Saint Traft
-Geist of Saint Traft
-Geist of Saint Traft
-Gemstone Caverns
-Gemstone Mine
-Gemstone Mine
-Gemstone Mine
-Gemstone Mine
-Genesis Wave
-Genesis Wave
-Genesis Wave
-Ghirapur Aether Grid
-Ghirapur Aether Grid
-Ghor-Clan Rampager
-Ghor-Clan Rampager
-Ghor-Clan Rampager
-Ghostly Prison
-Ghostly Prison
-Ghostly Prison
-Ghostly Prison
-Ghost Quarter
-Ghost Quarter
-Ghost Quarter
-Ghost Quarter
-Ghoulcaller's Bell
-Ghoulcaller's Bell
-Ghoulcaller's Bell
-Ghoulcaller's Bell
-Gideon Jura
-Gideon Jura
-Gifts Ungiven
-Gifts Ungiven
-Gifts Ungiven
-Gifts Ungiven
-Gigadrowse
-Gigadrowse
-Gigadrowse
-Gigadrowse
-Gitaxian Probe
-Gitaxian Probe
-Gitaxian Probe
-Gitaxian Probe
-Glacial Fortress
-Glimmervoid
-Glimmervoid
-Glimmervoid
-Glimmervoid
-Glimpse the Unthinkable
-Glint-Nest Crane
-Glint-Nest Crane
-Glint-Nest Crane
-Glint-Nest Crane
-Gnaw to the Bone
-Goblin Electromancer
-Goblin Electromancer
-Goblin Electromancer
-Goblin Electromancer
-Goblin Guide
-Goblin Guide
-Goblin Guide
-Goblin Guide
-Godless Shrine
-Godless Shrine
-Godless Shrine
-Go for the Throat
-Go for the Throat
-Go for the Throat
-Golgari Charm
-Golgari Charm
-Golgari Charm
-Golgari Rot Farm
-Golgari Thug
-Golgari Thug
-Golgari Thug
-Goryo's Vengeance
-Goryo's Vengeance
-Goryo's Vengeance
-Goryo's Vengeance
-Grafdigger's Cage
-Grafdigger's Cage
-Grand Arbiter Augustin IV
-Grand Architect
-Grand Architect
-Grand Architect
-Grand Architect
-Grapeshot
-Grapeshot
-Great Sable Stag
-Great Sable Stag
-Great Sable Stag
-Great Sable Stag
-Green Sun's Zenith
-Green Sun's Zenith
-Green Sun's Zenith
-Green Sun's Zenith
-Grim Flayer
-Grim Flayer
-Grim Flayer
-Grim Flayer
-Grim Lavamancer
-Grim Lavamancer
-Grim Lavamancer
-Grim Lavamancer
-Griselbrand
-Griselbrand
-Griselbrand
-Griselbrand
-Groundswell
-Grove of the Burnwillows
-Grove of the Burnwillows
-Grove of the Burnwillows
-Grove of the Burnwillows
-Gruul Turf
-Gruul Turf
-Gruul Turf
-Gruul Turf
-Gurmag Angler
-Gurmag Angler
-Gurmag Angler
-Gurmag Angler
-Gut Shot
-Gut Shot
-Gut Shot
-Gut Shot
-Guttural Response
-Guttural Response
-Guttural Response
-Guttural Response
-Hallowed Burial
-Hallowed Burial
-Hallowed Fountain
-Hallowed Fountain
-Hallowed Fountain
-Hallowed Fountain
-Hallowed Moonlight
-Hallowed Moonlight
-Hallowed Moonlight
-Hallowed Moonlight
-Hangarback Walker
-Hangarback Walker
-Hangarback Walker
-Hangarback Walker
-Haunted Dead
-Heartless Summoning
-Heartless Summoning
-Heartless Summoning
-Heartless Summoning
-Hedron Crab
-Hedron Crab
-Heliod, God of the Sun
-Heliod, God of the Sun
-Heritage Druid
-Heritage Druid
-Heritage Druid
-Heritage Druid
-Heron's Grace Champion
-Heron's Grace Champion
-Heron's Grace Champion
-Heron's Grace Champion
-Hibernation
-Hibernation
-Hibernation
-Hissing Quagmire
-Hissing Quagmire
-Hissing Quagmire
-Hive Mind
-Hive Mind
-Hive Mind
-Hooting Mandrills
-Hooting Mandrills
-Hooting Mandrills
-Hooting Mandrills
-Horizon Canopy
-Horizon Canopy
-Horizon Canopy
-Horizon Canopy
-Hornet Nest
-Horror of the Broken Lands
-Horror of the Broken Lands
-Horror of the Broken Lands
-Horror of the Broken Lands
-Howling Mine
-Howling Mine
-Howling Mine
-Hurkyl's Recall
-Hurkyl's Recall
-Ichor Wellspring
-Ichor Wellspring
-Ichor Wellspring
-Ichor Wellspring
-Ignite Memories
-Infernal Tutor
-Inferno Titan
-Ingot Chewer
-Inkmoth Nexus
-Inkmoth Nexus
-Inkmoth Nexus
-Inkmoth Nexus
-Inquisition of Kozilek
-Inquisition of Kozilek
-Inquisition of Kozilek
-Inquisition of Kozilek
-Insolent Neonate
-Insolent Neonate
-Insolent Neonate
-Insolent Neonate
-Inspiring Vantage
-Inspiring Vantage
-Inspiring Vantage
-Inspiring Vantage
-Invasive Surgery
-Invasive Surgery
-Invasive Surgery
-Invasive Surgery
-Inventor's Fair
-Inventor's Fair
-Iona, Shield of Emeria
-Izzet Charm
-Izzet Charm
-Izzet Charm
-Izzet Staticaster
-Izzet Staticaster
-Izzet Staticaster
-Jace, Architect of Thought
-Jace, Architect of Thought
-Jace, Architect of Thought
-Jace Beleren
-Jace's Phantasm
-Jace's Phantasm
-Jace's Phantasm
-Jace, Vryn's Prodigy
-Jace, Vryn's Prodigy
-Jace, Vryn's Prodigy
-Jotun Grunt
-Jotun Grunt
-Kalitas, Traitor of Ghet
-Kalitas, Traitor of Ghet
-Kami of False Hope
-Kari Zev's Expertise
-Karn Liberated
-Karn Liberated
-Karn Liberated
-Karn Liberated
-Karplusan Forest
-Karplusan Forest
-Karplusan Forest
-Kataki-War's Wage
-Kataki-War's Wage
-Kataki-War's Wage
-Keranos, God of Storms
-Keranos, God of Storms
-Keranos, God of Storms
-Khalni Garden
-Khalni Garden
-Khalni Heart Expedition
-Khalni Heart Expedition
-Khalni Heart Expedition
-Khalni Heart Expedition
-Kiki-Jiki, Mirror Breaker
-Kiln Field
-Kiln Field
-Kiln Field
-Kiln Field
-Kiora's Dismissal
-Kiora's Dismissal
-Kiora's Dismissal
-Kiora's Dismissal
-Kira, Great Glass-Spinner
-Kira, Great Glass-Spinner
-Kird Ape
-Kird Ape
-Kird Ape
-Kitchen Finks
-Kitchen Finks
-Kitchen Finks
-Kitchen Finks
-Knight of the Reliquary
-Knight of the Reliquary
-Knight of the Reliquary
-Knight of the Reliquary
-Kolaghan's Command
-Kolaghan's Command
-Kolaghan's Command
-Kolaghan's Command
-Kor Firewalker
-Kor Firewalker
-Kor Firewalker
-Koth of the Hammer
-Kozilek's Return
-Kozilek's Return
-Kozilek's Return
-Kozilek's Return
-Krark-Clan Ironworks
-Krark-Clan Ironworks
-Krark-Clan Ironworks
-Krark-Clan Ironworks
-Krosan Grip
-Laboratory Maniac
-Lantern of Insight
-Lantern of Insight
-Lantern of Insight
-Lantern of Insight
-Lava Spike
-Lava Spike
-Lava Spike
-Lava Spike
-Leave/Chance
-Leonin Arbiter
-Leonin Arbiter
-Leonin Arbiter
-Leonin Arbiter
-Leyline of Sanctity
-Leyline of Sanctity
-Leyline of Sanctity
-Leyline of Sanctity
-Leyline of the Void
-Leyline of the Void
-Leyline of the Void
-Leyline of the Void
-Life from the Loam
-Lightning Axe
-Lightning Axe
-Lightning Axe
-Lightning Bolt
-Lightning Bolt
-Lightning Bolt
-Lightning Bolt
-Lightning Bolt
-Lightning Helix
-Lightning Helix
-Lightning Helix
-Lightning Helix
-Lightning Storm
-Liliana of the Veil
-Liliana of the Veil
-Liliana of the Veil
-Liliana of the Veil
-Liliana, the Last Hope
-Liliana, the Last Hope
-Lingering Souls
-Lingering Souls
-Lingering Souls
-Lingering Souls
-Linvala, Keeper of Silence
-Linvala, the Preserver
-Living End
-Living End
-Living End
-Living End
-Llanowar Elves
-Llanowar Elves
-Llanowar Elves
-Llanowar Elves
-Llanowar Elves
-Llanowar Elves
-Llanowar Elves
-Llanowar Wastes
-Llanowar Wastes
-Llanowar Wastes
-Llanowar Wastes
-Lodestone Golem
-Lodestone Golem
-Lodestone Golem
-Lodestone Golem
-Logic Knot
-Logic Knot
-Lone Missionary
-Lone Missionary
-Lone Missionary
-Lone Missionary
-Lord of Atlantis
-Lord of Atlantis
-Lord of Atlantis
-Lord of Atlantis
-Lost Legacy
-Lost Legacy
-Lotus Bloom
-Lotus Bloom
-Lotus Bloom
-Lotus Bloom
-Lumbering Falls
-Madcap Experiment
-Madcap Experiment
-Madcap Experiment
-Madcap Experiment
-Maelstrom Pulse
-Maelstrom Pulse
-Magma Spray
-Magma Spray
-Magus of the Moon
-Magus of the Moon
-Mana Leak
-Mana Leak
-Mana Leak
-Mana Leak
-Manamorphose
-Manamorphose
-Manamorphose
-Manamorphose
-Mana Tithe
-Mana Tithe
-Marsh Flats
-Marsh Flats
-Marsh Flats
-Marsh Flats
-Martyr of Sands
-Martyr of Sands
-Martyr of Sands
-Martyr of Sands
-Master of Etherium
-Master of Etherium
-Master of Etherium
-Master of the Pearl Trident
-Master of the Pearl Trident
-Master of the Pearl Trident
-Master of the Pearl Trident
-Master of Waves
-Master of Waves
-Master of Waves
-Master of Waves
-Matter Reshaper
-Matter Reshaper
-Matter Reshaper
-Matter Reshaper
-Mausoleum Wanderer
-Mausoleum Wanderer
-Mausoleum Wanderer
-Mausoleum Wanderer
-Meddling Mage
-Meddling Mage
-Meddling Mage
-Melira, Sylvok Outcast
-Melira, Sylvok Outcast
-Melira, Sylvok Outcast
-Melira, Sylvok Outcast
-Memnite
-Memnite
-Memnite
-Memnite
-Memoricide
-Memoricide
-Memoricide
-Memoricide
-Merrow Reejery
-Merrow Reejery
-Merrow Reejery
-Merrow Reejery
-Might of Old Krosa
-Might of Old Krosa
-Might of Old Krosa
-Might of Old Krosa
-Mikokoro, Centre of the Sea
-Minamo, School at Water's Edge
-Mind Funeral
-Mind Funeral
-Mind Funeral
-Mind Funeral
-Mindslaver
-Mindslaver
-Mind Stone
-Mind Stone
-Mirran Crusader
-Mirran Crusader
-Mirran Crusader
-Mirran Crusader
-Mishra's Bauble
-Mishra's Bauble
-Mishra's Bauble
-Mishra's Bauble
-Misty Rainforest
-Misty Rainforest
-Misty Rainforest
-Misty Rainforest
-Molten Rain
-Molten Rain
-Molten Rain
-Momentary Blink
-Monastery Swiftspear
-Monastery Swiftspear
-Monastery Swiftspear
-Monastery Swiftspear
-Monstrous Carabid
-Monstrous Carabid
-Monstrous Carabid
-Monstrous Carabid
-Mortarpod
-Mox Opal
-Mox Opal
-Mox Opal
-Mox Opal
-Murderous Cut
-Murderous Cut
-Murderous Redcap
-Mutagenic Growth
-Mutagenic Growth
-Mutagenic Growth
-Mutagenic Growth
-Mutavault
-Mutavault
-Mutavault
-Mutavault
-Mwonvuli Acid-Moss
-Mwonvuli Acid-Moss
-Mystical Teachings
-Mystical Teachings
-Mystic Gate
-Mystic Gate
-Myth Realized
-Myth Realized
-Myth Realized
-Nahiri, the Harbinger
-Nahiri, the Harbinger
-Nahiri, the Harbinger
-Nahiri, the Harbinger
-Narcomoeba
-Narcomoeba
-Narcomoeba
-Narcomoeba
-Natural State
-Natural State
-Nature's Claim
-Nature's Claim
-Nature's Claim
-Nature's Claim
-Nature's Claim
-Needle Spires
-Negate
-Negate
-Negate
-Negate
-Nephalia Academy
-Nevermore
-Nevermore
-Nevermore
-Night of Souls's Betrayal
-Night of Souls's Betrayal
-Nihil Spellbomb
-Nihil Spellbomb
-Noble Hierarch
-Noble Hierarch
-Noble Hierarch
-Noble Hierarch
-Noxious Revival
-Noxious Revival
-Nyx-Fleece Ram
-Oblivion Ring
-Oblivion Ring
-Oblivion Ring
-Oblivion Sower
-Oblivion Sower
-Oblivion Sower
-Oblivion Sower
-Oblivion Stone
-Oblivion Stone
-Oblivion Stone
-Oblivion Stone
-Oboro, Palace in the Clouds
-Obstinate Baloth
-Obstinate Baloth
-Obstinate Baloth
-Obstinate Baloth
-Obzedat, Ghost Council
-Ojutai's Command
-Ojutai's Command
-Open the Vaults
-Open the Vaults
-Open the Vaults
-Open the Vaults
-Opt
-Opt
-Opt
-Opt
-Ornithopter
-Ornithopter
-Ornithopter
-Ornithopter
-Ornithopter
-Ornithopter
-Orzhov Charm
-Orzhov Charm
-Orzhov Charm
-Orzhov Charm
-Orzhov Pontiff
-Overgrown Tomp
-Overgrown Tomp
-Overgrowth
-Pact of Negation
-Pact of Negation
-Pact of Negation
-Painful Truths
-Paradise Mantle
-Paradise Mantle
-Paradise Mantle
-Paradise Mantle
-Part the Waterveil
-Part the Waterveil
-Part the Waterveil
-Past in Flames
-Past in Flames
-Past in Flames
-Path to Exile
-Path to Exile
-Path to Exile
-Path to Exile
-Path to Exile
-Path to Exile
-Path to Exile
-Path to Exile
-Patrician's Scorn
-Peer Through Depths
-Peer Through Depths
-Peer Through Depths
-Peer Through Depths
-Pendelhaven
-Pendelhaven
-Pentad Prism
-Pentad Prism
-Pentad Prism
-Pentad Prism
-Perilous Research
-Perilous Research
-Perilous Research
-Pestermite
-Pestermite
-Pestermite
-Pestermite
-Phantasmal Image
-Phantasmal Image
-Phantasmal Image
-Phyrexian Unlife
-Phyrexian Unlife
-Phyrexian Unlife
-Phyrexian Unlife
-Pilgrim's Eye
-Pilgrim's Eye
-Pilgrim's Eye
-Pilgrim's Eye
-Pillar of Flame
-Pillar of Flame
-Pithing Needle
-Pithing Needle
-Pithing Needle
-Plague Stinger
-Platinum Angel
-Platinum Emperion
-Platinum Emperion
-Polluted Delta
-Polluted Delta
-Polluted Delta
-Polluted Delta
-Port Town
-Port Town
-Port Town
-Port Town
-Possibility Storm
-Possibility Storm
-Possibility Storm
-Possibility Storm
-Possibility Storm
-Primal Command
-Primal Command
-Primal Command
-Primal Command
-Primeval Titan
-Primeval Titan
-Primeval Titan
-Primeval Titan
-Prismatic Omen
-Prismatic Omen
-Prismatic Omen
-Prized Amalgam
-Prized Amalgam
-Prized Amalgam
-Prized Amalgam
-Proclamation of Rebirth
-Prophetic Prism
-Puresteel Paladin
-Puresteel Paladin
-Puresteel Paladin
-Puresteel Paladin
-Pyretic Ritual
-Pyretic Ritual
-Pyretic Ritual
-Pyretic Ritual
-Pyrite Spellbomb
-Pyrite Spellbomb
-Pyroclasm
-Pyroclasm
-Pyroclasm
-Pyroclasm
-Pyroclasm
-Pyromancer Ascension
-Pyromancer Ascension
-Pyromancer Ascension
-Pyromancer Ascension
-Pyxis of Pandemonium
-Pyxis of Pandemonium
-Pyxis of Pandemonium
-Pyxis of Pandemonium
-Qasali Pridemage
-Qasali Pridemage
-Qasali Pridemage
-Qasali Pridemage
-Radiant Fountain
-Radiant Fountain
-Raging Ravine
-Raging Ravine
-Raging Ravine
-Raging Ravine
-Raise the Alarm
-Raise the Alarm
-Raise the Alarm
-Rally the Peasants
-Rally the Peasants
-Rally the Peasants
-Rally the Peasants
-Ranger of Eos
-Ranger of Eos
-Ranger of Eos
-Ranger of Eos
-Ratchet Bomb
-Ratchet Bomb
-Ratchet Bomb
-Ratchet Bomb
-Rattlechains
-Rattlechains
-Rattlechains
-Rattlechains
-Rattlechains
-Ravenous Trap
-Ravenous Trap
-Razorverge Thicket
-Razorverge Thicket
-Razorverge Thicket
-Reality Smasher
-Reality Smasher
-Reality Smasher
-Reality Smasher
-Reclamation Sage
-Reclamation Sage
-Relic of Progenitus
-Relic of Progenitus
-Relic of Progenitus
-Relic of Progenitus
-Relic of Progenitus
-Relic of Progenitus
-Relic of Progenitus
-Relic of Progenitus
-Relic of Progenitus
-Relic of Progenitus
-Remand
-Remand
-Remand
-Remand
-Rending Volley
-Rending Volley
-Rending Volley
-Rending Volley
-Renegade Rallier
-Renegade Rallier
-Repeal
-Repeal
-Repeal
-Repeal
-Reshape
-Reshape
-Reshape
-Reshape
-Rest for the Weary
-Rest for the Weary
-Rest for the Weary
-Rest in Peace
-Rest in Peace
-Rest in Peace
-Restoration Angel
-Restoration Angel
-Restoration Angel
-Restoration Angel
-Restoration Angel
-Retract
-Retract
-Retract
-Retract
-Rhox War Monk
-Rhox War Monk
-Ricochet Trap
-Ricochet Trap
-Ricochet Trap
-Ricochet Trap
-Rift Bolt
-Rift Bolt
-Rift Bolt
-Rift Bolt
-River of Tears
-Roast
-Roast
-Roast
-Runed Halo
-Runed Halo
-Ruric Thar, the Unbowed
-Sacred Foundry
-Sacred Foundry
-Sacred Foundry
-Sacred Foundry
-Sacred Ground
-Sacred Ground
-Sakura-Tribe Elder
-Sakura-Tribe Elder
-Sakura-Tribe Elder
-Sakura-Tribe Elder
-Sanctum of Ugin
-Sanctum of Ugin
-Scalding Tarn
-Scalding Tarn
-Scalding Tarn
-Scalding Tarn
-Scapeshift
-Scapeshift
-Scapeshift
-Scapeshift
-Scavenging Ooze
-Scavenging Ooze
-Scavenging Ooze
-Scrabbling Claws
-Scrabbling Claws
-Scrabbling Claws
-Scrap Trawler
-Seachrome Coast
-Seachrome Coast
-Seachrome Coast
-Seachrome Coast
-Sea Gate Wreckage
-Sea Gate Wreckage
-Seal of Primordium
-Seal of Primordium
-Seal of Primordium
-Seal of Primordium
-Search for Tomorrow
-Search for Tomorrow
-Search for Tomorrow
-Search for Tomorrow
-Searing Blaze
-Searing Blaze
-Searing Blaze
-Searing Blaze
-Selesnya Sanctuary
-Selfless Spirit
-Selfless Spirit
-Selfless Spirit
-Selfless Spirit
-Serum Visions
-Serum Visions
-Serum Visions
-Serum Visions
-Shadow of Doubt
-Shadow of Doubt
-Shadow of Doubt
-Shaman of the Pack
-Shambling Vent
-Shambling Vent
-Shambling Vent
-Shambling Vent
-Shard Volley
-Shard Volley
-Shard Volley
-Shattering Spree
-Shattering Spree
-Shatterstorm
-Shatterstorm
-Sheltered Thicket
-Shivan Reef
-Shivan Reef
-Shrapnel Blast
-Shrapnel Blast
-Shrapnel Blast
-Shrapnel Blast
-Shrieking Affliction
-Shrieking Affliction
-Shrine of Burning Rage
-Shrine of Burning Rage
-Shrine of Burning Rage
-Shrine of Burning Rage
-Siege Rhino
-Siege Rhino
-Siege Rhino
-Sigarda, Host of Herons
-Sigil of Distinction
-Sigil of Distinction
-Signal Pest
-Signal Pest
-Signal Pest
-Signal Pest
-Silence
-Silence
-Silence
-Silence
-Silvergill Adept
-Silvergill Adept
-Silvergill Adept
-Silvergill Adept
-Simian Spirit Guide
-Simian Spirit Guide
-Simian Spirit Guide
-Simian Spirit Guide
-Simic Growth Chamber
-Simic Growth Chamber
-Simic Growth Chamber
-Simic Growth Chamber
-Simic Signet
-Simic Signet
-Simic Signet
-Simic Signet
-Sin Collector
-Sin Collector
-Sin Collector
-Skred
-Skred
-Skred
-Skred
-Skred
-Skullcrack
-Skullcrack
-Skullcrack
-Skullcrack
-Slaugher Games
-Slaugher Games
-Slaugher Games
-Slaughter Pact
-Slaughter Pact
-Slayer's Stronghold
-Sleight of Hand
-Sleight of Hand
-Smallpox
-Smallpox
-Smallpox
-Smallpox
-Smash to Smithereens
-Smash to Smithereens
-Smash to Smithereens
-Smash to Smithereens
-Smuggler's Copter
-Smuggler's Copter
-Smuggler's Copter
-Smuggler's Copter
-Snapback
-Snapcaster Mage
-Snapcaster Mage
-Snapcaster Mage
-Snapcaster Mage
-Snow-Covered Island
-Snow-Covered Island
-Snow-Covered Mountain
-Snow-Covered Mountain
-Snow-Covered Mountain
-Snow-Covered Mountain
-Snow-Covered Mountain
-Snow-Covered Plains
-Snow-Covered Swamp
-Snow-Covered Swamp
-Soul Warden
-Soul Warden
-Sower of Temptation
-Sower of Temptation
-Sowing Salt
-Sowing Salt
-Spark Elemental
-Spatial Contortion
-Spatial Contortion
-Spatial Contortion
-Spell Burst
-Spell Pierce
-Spell Pierce
-Spell Pierce
-Spell Pierce
-Spell Queller
-Spell Queller
-Spell Queller
-Spell Queller
-Spellskite
-Spellskite
-Spellskite
-Spellskite
-Spell Snare
-Spell Snare
-Spell Snare
-Spell Snare
-Spellstutter Sprite
-Sphinx's Revelation
-Sphinx's Revelation
-Spidersilk Net
-Spidersilk Net
-Spidersilk Net
-Spidersilk Net
-Spirebluff Canal
-Spirebluff Canal
-Spirebluff Canal
-Spirebluff Canal
-Spire of Industry
-Spire of Industry
-Spire of Industry
-Spire of Industry
-Splinter Twin
-Splinter Twin
-Splinter Twin
-Splinter Twin
-Spoils of the Vault
-Spoils of the Vault
-Spoils of the Vault
-Spreading Seas
-Spreading Seas
-Spreading Seas
-Spreading Seas
-Springleaf Drum
-Springleaf Drum
-Springleaf Drum
-Springleaf Drum
-Squadron Hawk
-Sram, Senior Edificer
-Sram, Senior Edificer
-Sram, Senior Edificer
-Sram, Senior Edificer
-Steam Vents
-Steam Vents
-Steam Vents
-Steam Vents
-Steel Overseer
-Steel Overseer
-Steel Overseer
-Steel Overseer
-Steppe Lynx
-Steppe Lynx
-Steppe Lynx
-Steppe Lynx
-Stinkweed Imp
-Stinkweed Imp
-Stinkweed Imp
-Stinkweed Imp
-Stirring Wildwood
-Stirring Wildwood
-Stomping Ground
-Stomping Ground
-Stomping Ground
-Stomping Ground
-Stony Silence
-Stony Silence
-Stony Silence
-Stony Silence
-Stormbreath Dragon
-Stormchaser Mage
-Stormchaser Mage
-Stormchaser Mage
-Stormchaser Mage
-Street Wraith
-Street Wraith
-Street Wraith
-Street Wraith
-Stubborn Denial
-Stubborn Denial
-Stubborn Denial
-Stubborn Denial
-Sudden Shock
-Sudden Shock
-Sudden Shock
-Sudden Shock
-Sulfur Elemental
-Sulfur Elemental
-Sulfur Elemental
-Sulfur Elemental
-Sulfur Falls
-Sulfur Falls
-Sulfur Falls
-Summary Dismissal
-Summary Dismissal
-Summary Dismissal
-Summary Dismissal
-Summer Bloom
-Summer Bloom
-Summer Bloom
-Summer Bloom
-Summoner's Pact
-Summoner's Pact
-Summoner's Pact
-Summoner's Pact
-Summoning Trap
-Sundering Titan
-Sun Droplet
-Sun Droplet
-Sun Droplet
-Sun Droplet
-Sunhome, Fortress of the Legion
-Sunken Hollow
-Sunken Hollow
-Sunlance
-Sunlance
-Sun Titan
-Sun Titan
-Sun Titan
-Sun Titan
-Suppression Field
-Supreme Verdict
-Supreme Verdict
-Supreme Verdict
-Supreme Verdict
-Surgical Extraction
-Surgical Extraction
-Surgical Extraction
-Surgical Extraction
-Swan Song
-Swan Song
-Swan Song
-Sword of Feast and Famine
-Sword of the Meek
-Sylvan Caryatid
-Sylvan Caryatid
-Sylvan Scrying
-Sylvan Scrying
-Sylvan Scrying
-Sylvan Scrying
-Talisman of Progress
-Tarfire
-Tarfire
-Tarfire
-Tarmogoyf
-Tarmogoyf
-Tarmogoyf
-Tarmogoyf
-Tasigur, the Golden Fang
-Tasigur, the Golden Fang
-Tasigur, the Golden Fang
-Tectonic Edge
-Tectonic Edge
-Tectonic Edge
-Tectonic Edge
-Teferi, Mage of Zhalfir
-Telling Time
-Telling Time
-Temple Garden
-Temple Garden
-Temple of Deceit
-Temple of Deceit
-Temple of Deceit
-Temple of Deceit
-Temple of Enlightenment
-Temple of Enlightenment
-Temple of Enlightenment
-Temple of Mystery
-Temple of Silence
-Temple of Triumph
-Temple of Triumph
-Temple of Triumph
-Temple of Triumph
-Temporal Mastery
-Temporal Mastery
-Temporal Mastery
-Temporal Mastery
-Temur Battle Rage
-Temur Battle Rage
-Temur Battle Rage
-Temur Battle Rage
-Tendo Ice Bridge
-Tendo Ice Bridge
-Tendo Ice Bridge
-Terastodon
-Terminate
-Terminate
-Terminate
-Terminate
-Terminate
-Terminate
-Terminus
-Terrarion
-Terrarion
-Terrarion
-Terrarion
-Tezzeret, Agent of Bolas
-Thalia, Guardian of Thraben
-Thalia, Guardian of Thraben
-Thalia, Guardian of Thraben
-Thalia, Guardian of Thraben
-Thalia, Heretic Cathar
-Thassa, God of the Sea
-Thing in the Ice
-Thing in the Ice
-Thing in the Ice
-Thing in the Ice
-Think Twice
-Think Twice
-Think Twice
-Think Twice
-Thirst for Knowledge
-Thirst for Knowledge
-Thirst for Knowledge
-Thopter Foundry
-Thopter Foundry
-Thorn of Amethyst
-Thorn of Amethyst
-Thoughtcast
-Thoughtcast
-Thoughtcast
-Thought-Knot Seer
-Thought-Knot Seer
-Thought-Knot Seer
-Thought-Knot Seer
-Thought Scour
-Thought Scour
-Thought Scour
-Thought Scour
-Thoughtseize
-Thoughtseize
-Thoughtseize
-Thoughtseize
-Thragtusk
-Thragtusk
-Thragtusk
-Thragtusk
-Threads of Disloyalty
-Threads of Disloyalty
-Through the Breach
-Through the Breach
-Through the Breach
-Through the Breach
-Thrun, the Last Troll
-Thrun, the Last Troll
-Thundermaw Hellkite
-Tidehollow Sculler
-Tidehollow Sculler
-Tidehollow Sculler
-Tidehollow Sculler
-Timely Reinforcements
-Timely Reinforcements
-Timely Reinforcements
-Timely Reinforcements
-Time Warp
-Time Warp
-Time Warp
-Time Warp
-Tireless Tracker
-Tireless Tracker
-Tireless Tracker
-Tolaria West
-Tolaria West
-Tolaria West
-Tormod's Crypt
-Tormod's Crypt
-Torpor Orb
-Torpor Orb
-Traverse the Ulvenwald
-Traverse the Ulvenwald
-Traverse the Ulvenwald
-Traverse the Ulvenwald
-Treasure Mage
-Tribal Flames
-Trinisphere
-Trinisphere
-Trinket Mage
-Trinket Mage
-Tunnel Ignus
-Tunnel Ignus
-Tunnel Ignus
-Twilight Mire
-Twisted Image
-Twisted Image
-Twisted Image
-Ugin, the Spirit Dragon
-Ugin, the Spirit Dragon
-Ulamog, the Ceaseless Hunger
-Ulamog, the Ceaseless Hunger
-Ulamog, the Ceaseless Hunger
-Unburial Rites
-Unflinching Courage
-Unsubstantiate
-Unsubstantiate
-Unsubstantiate
-Unsubstantiate
-Urborg, Tomb of Yawgmoth
-Urborg, Tomb of Yawgmoth
-Urborg, Tomb of Yawgmoth
-Urborg, Tomb of Yawgmoth
-Urza's Mine
-Urza's Mine
-Urza's Mine
-Urza's Mine
-Urza's Power Plant
-Urza's Power Plant
-Urza's Power Plant
-Urza's Power Plant
-Urza's Tower
-Urza's Tower
-Urza's Tower
-Urza's Tower
-Valakut, the Molten Pinnacle
-Valakut, the Molten Pinnacle
-Valakut, the Molten Pinnacle
-Valakut, the Molten Pinnacle
-Valorous Stance
-Valorous Stance
-Valorous Stance
-Valorous Stance
-Vandalblast
-Vapor Snag
-Vapor Snag
-Vapor Snag
-Vapor Snag
-Vault Skirge
-Vault Skirge
-Vault Skirge
-Vault Skirge
-Vedalken Shackles
-Vedalken Shackles
-Vedalken Shackles
-Vendilion Clique
-Vendilion Clique
-Vendilion Clique
-Verdant Catacombs
-Verdant Catacombs
-Verdant Catacombs
-Verdant Catacombs
-Vesuva
-Vesuva
-Vines of Vastwood
-Vines of Vastwood
-Vines of Vastwood
-Vines of Vastwood
-Violent Outburst
-Violent Outburst
-Violent Outburst
-Violent Outburst
-Viscera Seer
-Viscera Seer
-Visions of Beyond
-Visions of Beyond
-Visions of Beyond
-Visions of Beyond
-Vizier of Remedies
-Vizier of Remedies
-Vizier of Remedies
-Vizier of Remedies
-Voice of Resurgerence
-Voice of Resurgerence
-Voice of Resurgerence
-Void Snare
-Void Snare
-Volcanic Fallout
-Volcanic Fallout
-Volcanic Fallout
-Walking Ballista
-Walking Ballista
-Walking Ballista
-Walking Ballista
-Wall of Omens
-Wall of Omens
-Wall of Omens
-Wall of Omens
-Wall of Roots
-Wall of Roots
-Warping Wail
-Warping Wail
-Warping Wail
-Wasteland Strangler
-Wasteland Strangler
-Wasteland Strangler
-Wasteland Strangler
-Watery Grave
-Watery Grave
-Wear/Tear
-Wear/Tear
-Wear/Tear
-Wear/Tear
-Weathered Wayfarer
-Welding Jar
-Welding Jar
-Welding Jar
-Welding Jar
-Whipflare
-Whipflare
-Wild Nacatl
-Wild Nacatl
-Wild Nacatl
-Wild Nacatl
-Windswept Heath
-Windswept Heath
-Windswept Heath
-Windswept Heath
-Witchbane Orb
-Witchbane Orb
-Witchbane Orb
-Witchbane Orb
-Wooded Foothils
-Wooded Foothils
-Wooded Foothils
-Wooded Foothils
-Wood Elves
-World Breaker
-World Breaker
-World Breaker
-World Breaker
-Worship
-Worship
-Worship
-Wrath of God
-Wrath of God
-Wrench Mind
-Wurmcoil Engine
-Wurmcoil Engine
-Wurmcoil Engine
-Wurmcoil Engine
-Yavimaya Coast
-Yavimaya Coast
-Yavimaya Coast
-Yixlid Jailer
-Young Pyromancer
-Young Pyromancer
-Young Pyromancer
-Young Pyromancer
-Zealous Persecution
-Zealous Persecution
-Zombie Infestation
+4 Abrupt Decay
+2 Academy Ruins
+4 Accorder's Shield
+2 Acidic Slime
+4 Ad Nauseam
+4 Adarkar Wastes
+3 Aether Spellbomb
+4 Aether Vial
+3 Ajani Vengeant
+1 Ajani's Pridemate
+3 All Is Dust
+4 Amulet of Vigor
+1 Anafenza, the Foremost
+3 Anafenza, Kin-Tree Spirit
+4 Ancestral Vision
+4 Ancient Grudge
+4 Ancient Stirrings
+4 Angel's Grace
+4 Anger of the Gods
+3 Anticipate
+4 Apostle's Blessing
+4 Arbor Elf
+4 Arcbound Ravager
+1 Archangel of Thune
+4 Archfiend of Ifnir
+2 Archive Trap
+4 Arid Mesa
+4 Atarka's Command
+8 Authority of the Consuls
+2 Avalanche Riders
+3 Aven Mindcensor
+4 Azorius Signet
+3 Azusa, Lost but Seeking
+1 Banefire
+1 Baneslayer Angel
+2 Basilisk Collar
+4 Bastion Inventor
+2 Batterskull
+4 Beast Within
+4 Become Immense
+4 Bedlam Reveler
+1 Big Game Hunter
+4 Birds of Paradise
+4 Blackcleave Cliffs
+4 Blade Splicer
+4 Blessed Alliance
+4 Blinkmoth Nexus
+2 Blood Crypt
+4 Blood Moon
+4 Bloodghast
+4 Bloodstained Mire
+4 Blooming Marsh
+1 Blue Sun's Zenith
+3 Boil
+1 Bojuka Bog
+4 Bone Saw
+4 Bonfire of the Damned
+4 Boom/Bust
+1 Boros Garrison
+4 Boros Charm
+1 Boseiju, Who Shelters All
+1 Bow of Nylea
+4 Breaking/Entering
+3 Breeding Pool
+1 Brimaz, King of Oreskos
+3 Brindle Boar
+4 Brushland
+4 Bump in the Night
+3 Burrenton Forge-Tender
+4 Burst Lightning
+2 Calciform Pools
+4 Cathar's Shield
+4 Cavern of Souls
+4 Caves of Koilos
+3 Celestial Flare
+4 Celestial Colonnade
+4 Celestial Purge
+4 Censor
+4 Ceremonious Rejection
+1 Cerulean Wisps
+4 Chalice of the Void
+2 Chandra, Torch of Defiance
+4 Chief Engineer
+4 Choke
+4 Choked Estuary
+4 Chord of Calling
+4 Chromatic Sphere
+4 Chromatic Star
+4 Cinder Glade
+1 City of Brass
+1 Clifftop Retreat
+4 Codex Shredder
+4 Collected Company
+4 Collective Brutality
+4 Combust
+2 Commandeer
+1 Concealed Courtyard
+2 Condemn
+4 Condescend
+3 Conflagrate
+4 Conjurer's Bauble
+2 Copperline Gorge
+2 Counterflux
+2 Courser of Kruphix
+3 Court Hussar
+4 Crack the Earth
+1 Crackling Doom
+4 Cranial Plating
+1 Craterhoof Behemoth
+1 Crovax, Ascendant Hero
+1 Crucible of Worlds
+4 Crumble to Dust
+2 Crypt Incursion
+4 Cryptic Command
+1 Culling Scales
+2 Cyclonic Rift
+2 Dakmor Salvage
+3 Damnation
+2 Damping Matrix
+4 Dark Confidant
+3 Darkblast
+1 Darkness
+3 Darkslick Shores
+4 Darksteel Citadel
+2 Dawn Charm
+1 Day of Judgment
+4 Deadshot Minotaur
+1 Deathmark
+4 Death's Shadow
+4 Deceiver Exarch
+2 Defense Grid
+3 Deflecting Palm
+4 Delver of Secrets
+4 Demonic Dread
+4 Desert Cerodon
+1 Desolate Lighthouse
+4 Desperate Ritual
+5 Desperate Ravings
+5 Destructive Revelry
+4 Detention Sphere
+2 Devastating Summons
+4 Devoted Druid
+4 Dictate of Kruphix
+4 Dig Through Time
+2 Disdainful Stroke
+3 Disenchant
+1 Disfigure
+5 Dismember
+5 Dispatch
+6 Dispel
+1 Doom Blade
+2 Dragon's Claw
+1 Dreadbore
+1 Dreadship Reef
+1 Driven/Despair
+4 Drogskol Captain
+1 Drowned Catacomb
+4 Drowner of Hope
+2 Dryad Arbor
+4 Duress
+1 Dusk/Dawn
+4 Duskwatch Recruiter
+4 Dwynen's Elite
+3 Echoing Truth
+2 Eidolon of Rhetoric
+4 Eidolon of the Great Revel
+1 Eiganjo Castle
+4 Eldrazi Displacer
+4 Eldrazi Mimic
+4 Eldrazi Obligator
+4 Eldrazi Skyspawner
+4 Eldrazi Temple
+2 Electrickery
+3 Electrolyze
+1 Elesh Norn, Grand Cenobite
+1 Elixir of Immortality
+1 Elspeth, Sun's Champion
+3 Elspeth, Knight-Errant
+1 Elvish Champion
+4 Elvish Archdruid
+4 Elvish Mystic
+4 Elvish Visionary
+4 Emeria, the Sky Ruin
+2 Empty the Warrens
+1 Emrakul, the Promised End
+4 Emrakul, the Aeons Torn
+4 Endbringer
+4 Endless One
+3 Engineered Explosives
+4 Engulf the Shore
+4 Ensnaring Bridge
+1 Entrancing Melody
+4 Esper Charm
+3 Etched Champion
+4 Eternal Scourge
+4 Eternal Witness
+4 Ethereal Haze
+1 Everflowing Chalice
+4 Exhaustion
+4 Expedition Map
+4 Explore
+4 Eye of Ugin
+4 Ezuri, Renegade Leader
+1 Faerie Conclave
+4 Faerie Macabre
+1 Faithless Looting
+4 Faith's Reward
+2 Farseek
+4 Fatal Push
+4 Feed the Clan
+1 Fetid Pools
+4 Firespout
+2 Flagstones of Trokair
+1 Flame slash
+1 Flame Slash
+2 Flames of the Blood Hand
+1 Flashfreeze
+4 Flickerwisp
+4 Flooded Strand
+4 Fog
+4 Foreboding Ruins
+3 Forked Bolt
+4 Fortified Village
+1 Fracturing Gust
+1 Fragmentize
+4 Fulminator Mage
+4 Funeral Charm
+1 Gaddock Teeg
+4 Galvanic Blast
+4 Game Trail
+3 Gavony Township
+1 Geier Reach Sanitarium
+4 Geist of Saint Traft
+1 Gemstone Caverns
+4 Gemstone Mine
+3 Genesis Wave
+2 Ghirapur Aether Grid
+3 Ghor-Clan Rampager
+4 Ghost Quarter
+4 Ghostly Prison
+4 Ghoulcaller's Bell
+2 Gideon Jura
+4 Gifts Ungiven
+4 Gigadrowse
+4 Gitaxian Probe
+1 Glacial Fortress
+4 Glimmervoid
+1 Glimpse the Unthinkable
+4 Glint-Nest Crane
+1 Gnaw to the Bone
+3 Go for the Throat
+4 Goblin Electromancer
+4 Goblin Guide
+3 Godless Shrine
+1 Golgari Rot Farm
+3 Golgari Charm
+3 Golgari Thug
+4 Goryo's Vengeance
+2 Grafdigger's Cage
+1 Grand Arbiter Augustin IV
+4 Grand Architect
+2 Grapeshot
+4 Great Sable Stag
+4 Green Sun's Zenith
+4 Grim Flayer
+4 Grim Lavamancer
+4 Griselbrand
+1 Groundswell
+4 Grove of the Burnwillows
+4 Gruul Turf
+4 Gurmag Angler
+4 Gut Shot
+4 Guttural Response
+2 Hallowed Burial
+4 Hallowed Fountain
+4 Hallowed Moonlight
+4 Hangarback Walker
+1 Haunted Dead
+4 Heartless Summoning
+2 Hedron Crab
+2 Heliod, God of the Sun
+4 Heritage Druid
+4 Heron's Grace Champion
+3 Hibernation
+3 Hissing Quagmire
+3 Hive Mind
+4 Hooting Mandrills
+4 Horizon Canopy
+1 Hornet Nest
+4 Horror of the Broken Lands
+3 Howling Mine
+2 Hurkyl's Recall
+4 Ichor Wellspring
+1 Ignite Memories
+1 Infernal Tutor
+1 Inferno Titan
+1 Ingot Chewer
+4 Inkmoth Nexus
+4 Inquisition of Kozilek
+4 Insolent Neonate
+4 Inspiring Vantage
+4 Invasive Surgery
+2 Inventor's Fair
+1 Iona, Shield of Emeria
+3 Izzet Charm
+3 Izzet Staticaster
+1 Jace Beleren
+3 Jace, Architect of Thought
+3 Jace, Vryn's Prodigy
+3 Jace's Phantasm
+2 Jotun Grunt
+2 Kalitas, Traitor of Ghet
+1 Kami of False Hope
+1 Kari Zev's Expertise
+4 Karn Liberated
+3 Karplusan Forest
+3 Kataki-War's Wage
+3 Keranos, God of Storms
+2 Khalni Garden
+4 Khalni Heart Expedition
+1 Kiki-Jiki, Mirror Breaker
+4 Kiln Field
+4 Kiora's Dismissal
+2 Kira, Great Glass-Spinner
+3 Kird Ape
+4 Kitchen Finks
+4 Knight of the Reliquary
+4 Kolaghan's Command
+3 Kor Firewalker
+1 Koth of the Hammer
+4 Kozilek's Return
+4 Krark-Clan Ironworks
+1 Krosan Grip
+1 Laboratory Maniac
+4 Lantern of Insight
+4 Lava Spike
+1 Leave/Chance
+4 Leonin Arbiter
+4 Leyline of Sanctity
+4 Leyline of the Void
+1 Life from the Loam
+1 Lightning Storm
+3 Lightning Axe
+4 Lightning Helix
+5 Lightning Bolt
+4 Liliana of the Veil
+2 Liliana, the Last Hope
+4 Lingering Souls
+1 Linvala, Keeper of Silence
+1 Linvala, the Preserver
+4 Living End
+4 Llanowar Wastes
+7 Llanowar Elves
+4 Lodestone Golem
+2 Logic Knot
+4 Lone Missionary
+4 Lord of Atlantis
+2 Lost Legacy
+4 Lotus Bloom
+1 Lumbering Falls
+4 Madcap Experiment
+2 Maelstrom Pulse
+2 Magma Spray
+2 Magus of the Moon
+2 Mana Tithe
+4 Mana Leak
+4 Manamorphose
+4 Marsh Flats
+4 Martyr of Sands
+3 Master of Etherium
+4 Master of the Pearl Trident
+4 Master of Waves
+4 Matter Reshaper
+4 Mausoleum Wanderer
+3 Meddling Mage
+4 Melira, Sylvok Outcast
+4 Memnite
+4 Memoricide
+4 Merrow Reejery
+4 Might of Old Krosa
+1 Mikokoro, Centre of the Sea
+1 Minamo, School at Water's Edge
+2 Mind Stone
+4 Mind Funeral
+2 Mindslaver
+4 Mirran Crusader
+4 Mishra's Bauble
+4 Misty Rainforest
+3 Molten Rain
+1 Momentary Blink
+4 Monastery Swiftspear
+4 Monstrous Carabid
+1 Mortarpod
+4 Mox Opal
+1 Murderous Redcap
+2 Murderous Cut
+4 Mutagenic Growth
+4 Mutavault
+2 Mwonvuli Acid-Moss
+2 Mystic Gate
+2 Mystical Teachings
+3 Myth Realized
+4 Nahiri, the Harbinger
+4 Narcomoeba
+2 Natural State
+5 Nature's Claim
+1 Needle Spires
+4 Negate
+1 Nephalia Academy
+3 Nevermore
+2 Night of Souls's Betrayal
+2 Nihil Spellbomb
+4 Noble Hierarch
+2 Noxious Revival
+1 Nyx-Fleece Ram
+3 Oblivion Ring
+4 Oblivion Sower
+4 Oblivion Stone
+1 Oboro, Palace in the Clouds
+4 Obstinate Baloth
+1 Obzedat, Ghost Council
+2 Ojutai's Command
+4 Open the Vaults
+4 Opt
+6 Ornithopter
+1 Orzhov Pontiff
+4 Orzhov Charm
+2 Overgrown Tomp
+1 Overgrowth
+3 Pact of Negation
+1 Painful Truths
+4 Paradise Mantle
+3 Part the Waterveil
+3 Past in Flames
+8 Path to Exile
+1 Patrician's Scorn
+4 Peer Through Depths
+2 Pendelhaven
+4 Pentad Prism
+3 Perilous Research
+4 Pestermite
+3 Phantasmal Image
+4 Phyrexian Unlife
+4 Pilgrim's Eye
+2 Pillar of Flame
+3 Pithing Needle
+1 Plague Stinger
+1 Platinum Angel
+2 Platinum Emperion
+4 Polluted Delta
+4 Port Town
+5 Possibility Storm
+4 Primal Command
+4 Primeval Titan
+3 Prismatic Omen
+4 Prized Amalgam
+1 Proclamation of Rebirth
+1 Prophetic Prism
+4 Puresteel Paladin
+4 Pyretic Ritual
+2 Pyrite Spellbomb
+5 Pyroclasm
+4 Pyromancer Ascension
+4 Pyxis of Pandemonium
+4 Qasali Pridemage
+2 Radiant Fountain
+4 Raging Ravine
+3 Raise the Alarm
+4 Rally the Peasants
+4 Ranger of Eos
+4 Ratchet Bomb
+5 Rattlechains
+2 Ravenous Trap
+3 Razorverge Thicket
+4 Reality Smasher
+2 Reclamation Sage
+10 Relic of Progenitus
+4 Remand
+4 Rending Volley
+2 Renegade Rallier
+4 Repeal
+4 Reshape
+3 Rest for the Weary
+3 Rest in Peace
+5 Restoration Angel
+4 Retract
+2 Rhox War Monk
+4 Ricochet Trap
+4 Rift Bolt
+1 River of Tears
+3 Roast
+2 Runed Halo
+1 Ruric Thar, the Unbowed
+2 Sacred Ground
+4 Sacred Foundry
+4 Sakura-Tribe Elder
+2 Sanctum of Ugin
+4 Scalding Tarn
+4 Scapeshift
+3 Scavenging Ooze
+3 Scrabbling Claws
+1 Scrap Trawler
+2 Sea Gate Wreckage
+4 Seachrome Coast
+4 Seal of Primordium
+4 Search for Tomorrow
+4 Searing Blaze
+1 Selesnya Sanctuary
+4 Selfless Spirit
+4 Serum Visions
+3 Shadow of Doubt
+1 Shaman of the Pack
+4 Shambling Vent
+3 Shard Volley
+2 Shattering Spree
+2 Shatterstorm
+1 Sheltered Thicket
+2 Shivan Reef
+4 Shrapnel Blast
+2 Shrieking Affliction
+4 Shrine of Burning Rage
+3 Siege Rhino
+1 Sigarda, Host of Herons
+2 Sigil of Distinction
+4 Signal Pest
+4 Silence
+4 Silvergill Adept
+4 Simian Spirit Guide
+4 Simic Growth Chamber
+4 Simic Signet
+3 Sin Collector
+5 Skred
+4 Skullcrack
+3 Slaugher Games
+2 Slaughter Pact
+1 Slayer's Stronghold
+2 Sleight of Hand
+4 Smallpox
+4 Smash to Smithereens
+4 Smuggler's Copter
+1 Snapback
+4 Snapcaster Mage
+1 Snow-Covered Plains
+2 Snow-Covered Island
+2 Snow-Covered Swamp
+5 Snow-Covered Mountain
+2 Soul Warden
+2 Sower of Temptation
+2 Sowing Salt
+1 Spark Elemental
+3 Spatial Contortion
+1 Spell Burst
+4 Spell Pierce
+4 Spell Queller
+4 Spell Snare
+4 Spellskite
+1 Spellstutter Sprite
+2 Sphinx's Revelation
+4 Spidersilk Net
+4 Spire of Industry
+4 Spirebluff Canal
+4 Splinter Twin
+3 Spoils of the Vault
+4 Spreading Seas
+4 Springleaf Drum
+1 Squadron Hawk
+4 Sram, Senior Edificer
+4 Steam Vents
+4 Steel Overseer
+4 Steppe Lynx
+4 Stinkweed Imp
+2 Stirring Wildwood
+4 Stomping Ground
+4 Stony Silence
+1 Stormbreath Dragon
+4 Stormchaser Mage
+4 Street Wraith
+4 Stubborn Denial
+4 Sudden Shock
+3 Sulfur Falls
+4 Sulfur Elemental
+4 Summary Dismissal
+4 Summer Bloom
+4 Summoner's Pact
+1 Summoning Trap
+4 Sun Droplet
+4 Sun Titan
+1 Sundering Titan
+1 Sunhome, Fortress of the Legion
+2 Sunken Hollow
+2 Sunlance
+1 Suppression Field
+4 Supreme Verdict
+4 Surgical Extraction
+3 Swan Song
+1 Sword of Feast and Famine
+1 Sword of the Meek
+2 Sylvan Caryatid
+4 Sylvan Scrying
+1 Talisman of Progress
+3 Tarfire
+4 Tarmogoyf
+3 Tasigur, the Golden Fang
+4 Tectonic Edge
+1 Teferi, Mage of Zhalfir
+2 Telling Time
+1 Temple of Mystery
+1 Temple of Silence
+2 Temple Garden
+3 Temple of Enlightenment
+4 Temple of Deceit
+4 Temple of Triumph
+4 Temporal Mastery
+4 Temur Battle Rage
+3 Tendo Ice Bridge
+1 Terastodon
+6 Terminate
+1 Terminus
+4 Terrarion
+1 Tezzeret, Agent of Bolas
+1 Thalia, Heretic Cathar
+4 Thalia, Guardian of Thraben
+1 Thassa, God of the Sea
+4 Thing in the Ice
+4 Think Twice
+3 Thirst for Knowledge
+2 Thopter Foundry
+2 Thorn of Amethyst
+4 Thought Scour
+3 Thoughtcast
+4 Thought-Knot Seer
+4 Thoughtseize
+4 Thragtusk
+2 Threads of Disloyalty
+4 Through the Breach
+2 Thrun, the Last Troll
+1 Thundermaw Hellkite
+4 Tidehollow Sculler
+4 Time Warp
+4 Timely Reinforcements
+3 Tireless Tracker
+3 Tolaria West
+2 Tormod's Crypt
+2 Torpor Orb
+4 Traverse the Ulvenwald
+1 Treasure Mage
+1 Tribal Flames
+2 Trinisphere
+2 Trinket Mage
+3 Tunnel Ignus
+1 Twilight Mire
+3 Twisted Image
+2 Ugin, the Spirit Dragon
+3 Ulamog, the Ceaseless Hunger
+1 Unburial Rites
+1 Unflinching Courage
+4 Unsubstantiate
+4 Urborg, Tomb of Yawgmoth
+4 Urza's Mine
+4 Urza's Power Plant
+4 Urza's Tower
+4 Valakut, the Molten Pinnacle
+4 Valorous Stance
+1 Vandalblast
+4 Vapor Snag
+4 Vault Skirge
+3 Vedalken Shackles
+3 Vendilion Clique
+4 Verdant Catacombs
+2 Vesuva
+4 Vines of Vastwood
+4 Violent Outburst
+2 Viscera Seer
+4 Visions of Beyond
+4 Vizier of Remedies
+3 Voice of Resurgerence
+2 Void Snare
+3 Volcanic Fallout
+4 Walking Ballista
+2 Wall of Roots
+4 Wall of Omens
+3 Warping Wail
+4 Wasteland Strangler
+2 Watery Grave
+4 Wear/Tear
+1 Weathered Wayfarer
+4 Welding Jar
+2 Whipflare
+4 Wild Nacatl
+4 Windswept Heath
+4 Witchbane Orb
+1 Wood Elves
+4 Wooded Foothils
+4 World Breaker
+3 Worship
+2 Wrath of God
+1 Wrench Mind
+4 Wurmcoil Engine
+3 Yavimaya Coast
+1 Yixlid Jailer
+4 Young Pyromancer
+2 Zealous Persecution
+1 Zombie Infestation
