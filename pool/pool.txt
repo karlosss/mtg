@@ -474,7 +474,7 @@
 3 Razorverge Thicket
 4 Reality Smasher
 2 Reclamation Sage
-10 Relic of Progenitus
+8 Relic of Progenitus
 4 Remand
 4 Rending Volley
 2 Renegade Rallier
