@@ -219,6 +219,7 @@
 4 Flooded Strand
 4 Fog
 4 Foreboding Ruins
+99 Forest
 3 Forked Bolt
 4 Fortified Village
 1 Fracturing Gust
@@ -302,6 +303,7 @@
 4 Invasive Surgery
 2 Inventor's Fair
 1 Iona, Shield of Emeria
+99 Island
 3 Izzet Charm
 3 Izzet Staticaster
 1 Jace Beleren
@@ -391,6 +393,7 @@
 4 Monastery Swiftspear
 4 Monstrous Carabid
 1 Mortarpod
+99 Mountain
 4 Mox Opal
 1 Murderous Redcap
 2 Murderous Cut
@@ -445,6 +448,7 @@
 2 Pillar of Flame
 3 Pithing Needle
 1 Plague Stinger
+99 Plains
 1 Platinum Angel
 2 Platinum Emperion
 4 Polluted Delta
@@ -592,6 +596,7 @@
 1 Suppression Field
 4 Supreme Verdict
 4 Surgical Extraction
+99 Swamp
 3 Swan Song
 1 Sword of Feast and Famine
 1 Sword of the Meek
