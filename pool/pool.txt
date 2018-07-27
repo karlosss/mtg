@@ -561,7 +561,7 @@
 1 Spellstutter Sprite
 2 Sphinx's Revelation
 4 Spidersilk Net
-4 Spire of Industry
+5 Spire of Industry
 4 Spirebluff Canal
 4 Splinter Twin
 3 Spoils of the Vault
