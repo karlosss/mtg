@@ -117,6 +117,7 @@
 2 Dakmor Salvage
 3 Damnation
 2 Damping Matrix
+2 Damping Sphere
 4 Dark Confidant
 3 Darkblast
 1 Darkness
@@ -209,6 +210,7 @@
 4 Fatal Push
 4 Feed the Clan
 1 Fetid Pools
+4 Field of Ruin
 4 Firespout
 2 Flagstones of Trokair
 1 Flame slash
@@ -308,6 +310,7 @@
 3 Izzet Staticaster
 1 Jace Beleren
 3 Jace, Architect of Thought
+4 Jace, the Mind Sculptor
 3 Jace, Vryn's Prodigy
 3 Jace's Phantasm
 2 Jotun Grunt
@@ -315,6 +318,7 @@
 1 Kami of False Hope
 1 Kari Zev's Expertise
 4 Karn Liberated
+2 Karn, Scion of Urza
 3 Karplusan Forest
 3 Kataki-War's Wage
 3 Keranos, God of Storms
