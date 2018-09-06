@@ -435,7 +435,7 @@
 6 Ornithopter
 1 Orzhov Pontiff
 4 Orzhov Charm
-2 Overgrown Tomp
+2 Overgrown Tomb
 1 Overgrowth
 3 Pact of Negation
 2 Painful Truths
