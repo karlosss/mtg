@@ -1,6 +1,6 @@
 1 Ancestral Vision 
 1 Celestial Purge 
-4 Celestial Colonnade 
+3 Celestial Colonnade 
 3 Cryptic Command 
 2 Damping Sphere 
 1 Detention Sphere 
